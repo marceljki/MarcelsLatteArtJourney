@@ -1,1 +1,0 @@
-import{n as s,M as a,L as e,O as n,S as t}from"./components-CTH6LohG.js";function r(){return s.jsxs("html",{children:[s.jsxs("head",{children:[s.jsx("link",{rel:"icon",href:"data:image/x-icon;base64,AA"}),s.jsx(a,{}),s.jsx(e,{})]}),s.jsxs("body",{children:[s.jsx("h1",{children:"Nana stinkt!"}),s.jsx(n,{}),s.jsx(t,{})]})]})}export{r as default};
