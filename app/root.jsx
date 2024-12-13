@@ -17,7 +17,7 @@ export default function App() {
             <Links />
         </head>
         <body>
-        <h1>Nana, danke fürs fahren!</h1>
+        <h1>Was geht Pia!</h1>
         <Outlet />
 
         <Scripts />
