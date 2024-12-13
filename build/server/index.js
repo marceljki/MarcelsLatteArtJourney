@@ -129,7 +129,7 @@ function App() {
       /* @__PURE__ */ jsx(Links, {})
     ] }),
     /* @__PURE__ */ jsxs("body", { children: [
-      /* @__PURE__ */ jsx("h1", { children: "Nana, danke fürs fahren!" }),
+      /* @__PURE__ */ jsx("h1", { children: "Was geht Pia!" }),
       /* @__PURE__ */ jsx(Outlet, {}),
       /* @__PURE__ */ jsx(Scripts, {})
     ] })
@@ -139,7 +139,7 @@ const route0 = /* @__PURE__ */ Object.freeze(/* @__PURE__ */ Object.defineProper
   __proto__: null,
   default: App
 }, Symbol.toStringTag, { value: "Module" }));
-const serverManifest = { "entry": { "module": "/assets/entry.client-DGxEBX6d.js", "imports": ["/assets/components-CTH6LohG.js"], "css": [] }, "routes": { "root": { "id": "root", "parentId": void 0, "path": "", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasErrorBoundary": false, "module": "/assets/root-CKX27tLV.js", "imports": ["/assets/components-CTH6LohG.js"], "css": [] } }, "url": "/assets/manifest-10b7f2ce.js", "version": "10b7f2ce" };
+const serverManifest = { "entry": { "module": "/assets/entry.client-DGxEBX6d.js", "imports": ["/assets/components-CTH6LohG.js"], "css": [] }, "routes": { "root": { "id": "root", "parentId": void 0, "path": "", "index": void 0, "caseSensitive": void 0, "hasAction": false, "hasLoader": false, "hasClientAction": false, "hasClientLoader": false, "hasErrorBoundary": false, "module": "/assets/root-D9_3BGZf.js", "imports": ["/assets/components-CTH6LohG.js"], "css": [] } }, "url": "/assets/manifest-091f3a6d.js", "version": "091f3a6d" };
 const mode = "production";
 const assetsBuildDirectory = "build/client";
 const basename = "/";
